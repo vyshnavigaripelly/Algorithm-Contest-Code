@@ -1,0 +1,5 @@
+*.exe
+*.class
+*.txt
+!problems.txt
+.vscode
